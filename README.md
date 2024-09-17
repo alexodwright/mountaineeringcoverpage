@@ -1,0 +1,1 @@
+Continuous Assessment for the first semester of first year. Our objective was to create a website using only HTML and CSS. A live version can be found here: https://alexodwright.github.io/mountaineeringcoverpage
